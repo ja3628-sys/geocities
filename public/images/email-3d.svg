@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="110" height="64" viewBox="0 0 110 64">
+<defs><linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffff99"/><stop offset=".5" stop-color="#ffcc00"/><stop offset="1" stop-color="#996600"/></linearGradient>
+<linearGradient id="e" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#8899bb"/></linearGradient></defs>
+<rect width="110" height="64" fill="#000"/>
+<g transform="translate(6 8)"><rect x="3" y="3" width="40" height="28" fill="#333"/><rect width="40" height="28" fill="url(#e)" stroke="#223" stroke-width="1.5"/>
+<path d="M0 0 L20 16 L40 0" fill="none" stroke="#223" stroke-width="2"/></g>
+<g font-family="Arial Black, Arial, sans-serif" font-weight="bold" font-style="italic" font-size="19">
+<text x="55" y="31" fill="#663300">MAIL</text><text x="53" y="29" fill="url(#g)" stroke="#663300" stroke-width=".6">MAIL</text>
+<text x="10" y="58" fill="#663300" font-size="13">ME TODAY!</text><text x="9" y="57" fill="url(#g)" font-size="13">ME TODAY!</text></g></svg>
